@@ -1,0 +1,536 @@
+local args = {
+    [1] = "Fast Wave"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("StageChallenge"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Vote1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("Vote"):FireServer(unpack(args))
+wait(1)
+local args = {
+    [1] = {
+        [1] = "bolm",
+        [2] = CFrame.new(-68.6627426147461, 20013.787109375, 249.07969665527344, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+        [3] = 0
+    },
+    [2] = "58616e30-e9c4-4e8f-8ae5-8c5829f1337e"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("spawnunit"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "bolm 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "bolm 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "bolm 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "bolm 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "bolm 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "bolm 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(7.5) -- Skip Wave
+local args = {
+    [1] = {
+        [1] = "Senko",
+        [2] = CFrame.new(-75.45545196533203, 20013.787109375, 249.16343688964844, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+        [3] = 0
+    },
+    [2] = "1cba151b-b68d-4065-aebe-958c775cd5cb"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("spawnunit"):InvokeServer(unpack(args))
+wait(7.5)-- Skip Wave
+local args = {
+    [1] = {
+        [1] = "Senko",
+        [2] = CFrame.new(-75.5176010131836, 20013.787109375, 253.19851684570312, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+        [3] = 0
+    },
+    [2] = "1cba151b-b68d-4065-aebe-958c775cd5cb"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("spawnunit"):InvokeServer(unpack(args))
+wait(1) 
+local args = {
+    [1] = "Upgrade",
+    [2] = "Senko 2"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Senko 2"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Senko 2"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Senko 2"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Senko 2"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Senko 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Senko 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Senko 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Senko 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(7.5) -- Skip Wave
+local args = {
+    [1] = {
+        [1] = "Ai (Idols)",
+        [2] = CFrame.new(-69.45205688476562, 20013.787109375, 228.21792602539062, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+        [3] = 0
+    },
+    [2] = "d19884dc-8856-46ae-a549-b09b548587a2"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("spawnunit"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Senko 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(7.5) -- Skip Wave
+local args = {
+    [1] = "Upgrade",
+    [2] = "Senko 2"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Senko 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(7.5) -- Skip Wave
+local args = {
+    [1] = "Upgrade",
+    [2] = "Senko 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(7.5) -- Skip Wave
+local args = {
+    [1] = "Upgrade",
+    [2] = "Senko 2"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Senko 2"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Senko 2"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Senko 2"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(7.5) -- Skip Wave
+local args = {
+    [1] = {
+        [1] = "Rukia (Bankai)",
+        [2] = CFrame.new(-47.019649505615234, 20013.791015625, 252.63539123535156, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+        [3] = 0
+    },
+    [2] = "12a45d8f-017e-4f6e-8c1f-5a4adb48aee9"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("spawnunit"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Ai (Idols) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Ai (Idols) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Ai (Idols) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(7.5) -- Skip Wave
+local args = {
+    [1] = "Upgrade",
+    [2] = "Ai (Idols) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Rukia (Bankai) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Rukia (Bankai) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Rukia (Bankai) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Rukia (Bankai) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Rukia (Bankai) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Rukia (Bankai) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(7.5) -- Skip Wave
+local args = {
+    [1] = "Upgrade",
+    [2] = "Rukia (Bankai) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Rukia (Bankai) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(7.5) -- Skip Wave
+local args = {
+    [1] = "Upgrade",
+    [2] = "Rukia (Bankai) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(7.5) -- Skip Wave
+local args = {
+    [1] = "Upgrade",
+    [2] = "Rukia (Bankai) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(7.5) -- Skip Wave 
+local args = {
+    [1] = "Upgrade",
+    [2] = "Rukia (Bankai) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(7.5) -- Skip Wave
+wait(7.5) -- Skip Wave
+local args = {
+    [1] = {
+        [1] = "Milim (Lord)",
+        [2] = CFrame.new(-23.430604934692383, 20013.791015625, 246.09217834472656, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+        [3] = 0
+    },
+    [2] = "439cb440-9f33-4016-8baa-09d321c42a0c"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("spawnunit"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Milim (Lord) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Milim (Lord) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Milim (Lord) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Milim (Lord) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Milim (Lord) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Milim (Lord) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Milim (Lord) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Milim (Lord) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Milim (Lord) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(7.5) -- Skip Wave
+local args = {
+    [1] = "Upgrade",
+    [2] = "Milim (Lord) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(7.5) -- Skip Wave
+local args = {
+    [1] = {
+        [1] = "Rimosu (Demon Lord)",
+        [2] = CFrame.new(-32.513179779052734, 20013.791015625, 244.35888671875, 1, 0, 0, 0, 1, 0, 0, 0, 1),
+        [3] = 0
+    },
+    [2] = "916791ea-09ba-4b4e-be74-29e7f277403f"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("spawnunit"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Rimosu (Demon Lord) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Rimosu (Demon Lord) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Rimosu (Demon Lord) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Rimosu (Demon Lord) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Rimosu (Demon Lord) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Rimosu (Demon Lord) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Rimosu (Demon Lord) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(7.5) -- Skip Wave
+local args = {
+    [1] = "Upgrade",
+    [2] = "Rimosu (Demon Lord) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Rimosu (Demon Lord) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Rimosu (Demon Lord) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Rimosu (Demon Lord) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Rimosu (Demon Lord) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(7.5) -- Skip Wave
+local args = {
+    [1] = "Upgrade",
+    [2] = "Rimosu (Demon Lord) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "Upgrade",
+    [2] = "Rimosu (Demon Lord) 1"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayMode"):WaitForChild("Events"):WaitForChild("ManageUnits"):InvokeServer(unpack(args))
+wait(137)
+-- Teleport to game ID 17282336195
+local TeleportService = game:GetService("TeleportService")
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+
+TeleportService:Teleport(17282336195, LocalPlayer)
